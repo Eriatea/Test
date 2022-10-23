@@ -1,0 +1,5 @@
+Apple :: Iphone 9 :: 29900 :: 1
+Apple :: Iphone 11 :: 57999 :: 2
+Samsung :: Galaxy A :: 52999 :: 1
+Samsung :: Galaxy M :: 57999 :: 1
+Apple :: Iphone 10 :: 39999 :: 1
